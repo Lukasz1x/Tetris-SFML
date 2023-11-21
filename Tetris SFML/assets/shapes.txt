@@ -1,0 +1,7 @@
+-1 0 -1 1 0 1 1 1 blue.png
+1 0 0 0 -1 1 0 1 green.png
+-1 0 0 0 1 0 2 0 grey.png
+0 0 -1 1 0 1 1 1 magenta.png
+1 0 -1 1 0 1 1 1 orange.png
+-1 0 0 0 0 1 1 1 red.png
+0 0 1 0 0 1 1 1 yellow.png
